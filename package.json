@@ -1,13 +1,13 @@
 {
     "name": "Octavia-Launcher",
     "preductname": "Octavia Launcher",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "description": "Launcher Mincraft pour le serveur Octavia",
     "main": "src/app.js",
     "author": {
         "name": "Antoine"
     },
-    "url": "http://185.255.112.143",
+    "url": "http://176.182.179.16",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
